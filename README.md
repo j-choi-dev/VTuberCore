@@ -1,1 +1,1 @@
-# VRLiveCore
+# VTuberCore
